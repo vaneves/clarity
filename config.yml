@@ -1,0 +1,4 @@
+host: localhost
+port: 2015
+root: ./www
+index: index.html
